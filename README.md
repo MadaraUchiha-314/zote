@@ -1,2 +1,2 @@
-# agentic-experiments
+# zote
 Randome experiments with agents, langgraph
